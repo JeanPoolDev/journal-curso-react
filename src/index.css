@@ -1,0 +1,5 @@
+.nombre {
+  background: linear-gradient(70deg, green, blue);
+  background-clip: text;
+  color: transparent;
+}
